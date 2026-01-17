@@ -12,7 +12,7 @@ export const Card = ({ card, handleSelected, rotated, disabled }) => {
         <img
           onClick={() => handleClick()}
           className="w-35 h-35 back"
-          src="public/images/question.png"
+          src="question.png"
         />
       </div>
     </div>
