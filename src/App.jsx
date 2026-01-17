@@ -6,51 +6,51 @@ import { Card } from "./components/Card";
 export const App = () => {
   const defaultCards = [
     {
-      img: "public/images/apple.png",
+      img: "public/apple.png",
       matched: false,
     },
     {
-      img: "public/images/banana.png",
+      img: "public/banana.png",
       matched: false,
     },
     {
-      img: "public/images/orange.png",
+      img: "public/orange.png",
       matched: false,
     },
     {
-      img: "public/images/grapes.png",
+      img: "public/grapes.png",
       matched: false,
     },
     {
-      img: "public/images/strawberry.png",
+      img: "public/strawberry.png",
       matched: false,
     },
     {
-      img: "public/images/peach.png",
+      img: "public/peach.png",
       matched: false,
     },
     {
-      img: "public/images/pomegranate.png",
+      img: "public/pomegranate.png",
       matched: false,
     },
     {
-      img: "public/images/pear.png",
+      img: "public/pear.png",
       matched: false,
     },
     {
-      img: "public/images/lemon.png",
+      img: "public/lemon.png",
       matched: false,
     },
     {
-      img: "public/images/pineapple.png",
+      img: "public/pineapple.png",
       matched: false,
     },
     {
-      img: "public/images/cherry.png",
+      img: "public/cherry.png",
       matched: false,
     },
     {
-      img: "public/images/avocado.png",
+      img: "public/avocado.png",
       matched: false,
     },
   ];
